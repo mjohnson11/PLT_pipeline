@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/02M_NaCl_2N_R1/
+Making stats output directory: ../../LT_data/02M_NaCl_2N_R1/run_statistics/
+Read 575198624 reads, 106039764 matched library indices.
+making output directory: ../../LT_data/02M_NaCl_2N_R1/run_statistics/02M_NaCl_2N_R1_html_report
+Time: 23059.03636288643
+Correcting Env BCs...
+Made 1865 deletion neighborhoods from 37459 barcodes.
+Correcting Div BCs...
+Made 522043 deletion neighborhoods from 2381096 barcodes.
+Made 910219 total clusters. 17638 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_bc_counts.csv
+Read 5359118 rows.
+
+Reading cluster file: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_unclustered.csv
+Wrote 553992 rows, comprising 1459076 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_centroids_only.csv
+Wrote 632908 rows.
+
+Outputting clustered lineages to: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_bc_counts_clustered.csv
+Wrote 632908 rows.
+
+Outputting stats on clusters to: ../../LT_data/02M_NaCl_2N_R1/02M_NaCl_2N_R1_cluster_info.csv
+Found 1425526 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 5359118 barcodes
+Made 632908 clusters from 4805126 bcs, totaling 66905962 reads.
+Could not match 553992 bcs, totaling 1459076 reads.
+Done, time elapsed: 486.9201273918152

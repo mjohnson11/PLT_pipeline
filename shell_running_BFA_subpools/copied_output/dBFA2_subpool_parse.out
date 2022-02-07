@@ -1,0 +1,9 @@
+Making main output directory: ../../BFA_Subpool_data/dBFA2_subpools/
+Making stats output directory: ../../BFA_Subpool_data/dBFA2_subpools/run_statistics/
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/dBFA2-21C_2N-R1-Subpool_S32_R1_001.fastq.gz
+Read 411482 reads, 406403 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/dBFA2-02M_NaCl_2N-R1-Subpool_S33_R1_001.fastq.gz
+Read 569954 reads, 561819 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/dBFA2-FLC4_2N-R1-Subpool_S34_R1_001.fastq.gz
+Read 155803 reads, 149536 matched library inline index.
+Time: 50.91095566749573

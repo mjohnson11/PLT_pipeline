@@ -1,0 +1,12 @@
+Processing files: ../../BFA_data/dBFA2_Harvard_1/dBFA2_Harvard_1_bc_counts_clustered.csv
+../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_bc_counts_clustered.csv
+../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_bc_counts_clustered.csv
+../../BFA_data/dBFA2_Stanford_2/dBFA2_Stanford_2_bc_counts_clustered.csv
+5866 bcs after combining and excluding chimeras.
+Processing files: ../../BFA_data/hBFA1_part1/hBFA1_part1_bc_counts_clustered.csv
+../../BFA_data/hBFA1_part2/hBFA1_part2_bc_counts_clustered.csv
+2586 bcs after combining and excluding chimeras.
+Processing files: ../../BFA_data/hBFA2_Harvard_1/hBFA2_Harvard_1_bc_counts_clustered.csv
+../../BFA_data/hBFA2_Harvard_2/hBFA2_Harvard_2_bc_counts_clustered.csv
+../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_bc_counts_clustered.csv
+3802 bcs after combining and excluding chimeras.

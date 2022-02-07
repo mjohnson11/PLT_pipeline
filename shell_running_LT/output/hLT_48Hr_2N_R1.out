@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/48Hr_2N_R1/
+Making stats output directory: ../../LT_data/48Hr_2N_R1/run_statistics/
+Read 670667371 reads, 29010887 matched library indices.
+making output directory: ../../LT_data/48Hr_2N_R1/run_statistics/48Hr_2N_R1_html_report
+Time: 20639.073818445206
+Correcting Env BCs...
+Made 1256 deletion neighborhoods from 16867 barcodes.
+Correcting Div BCs...
+Made 408413 deletion neighborhoods from 937722 barcodes.
+Made 572426 total clusters. 7600 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_bc_counts.csv
+Read 1778407 rows.
+
+Reading cluster file: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_unclustered.csv
+Wrote 446394 rows, comprising 1387171 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_centroids_only.csv
+Wrote 371224 rows.
+
+Outputting clustered lineages to: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_bc_counts_clustered.csv
+Wrote 371224 rows.
+
+Outputting stats on clusters to: ../../LT_data/48Hr_2N_R1/48Hr_2N_R1_cluster_info.csv
+Found 739696 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 1778407 barcodes
+Made 371224 clusters from 1332013 bcs, totaling 22487059 reads.
+Could not match 446394 bcs, totaling 1387171 reads.
+Done, time elapsed: 196.8287296295166

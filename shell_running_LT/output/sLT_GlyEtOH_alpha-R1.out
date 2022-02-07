@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/GlyEtOH_alpha_R1/
+Making stats output directory: ../../LT_data/GlyEtOH_alpha_R1/run_statistics/
+Read 669761040 reads, 67654086 matched library indices.
+making output directory: ../../LT_data/GlyEtOH_alpha_R1/run_statistics/GlyEtOH_alpha_R1_html_report
+Time: 24141.021065235138
+Correcting Env BCs...
+Made 1748 deletion neighborhoods from 39415 barcodes.
+Correcting Div BCs...
+Made 476525 deletion neighborhoods from 1513920 barcodes.
+Made 807467 total clusters. 21051 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_bc_counts.csv
+Read 3249052 rows.
+
+Reading cluster file: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_unclustered.csv
+Wrote 795151 rows, comprising 2373491 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_centroids_only.csv
+Wrote 437650 rows.
+
+Outputting clustered lineages to: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_bc_counts_clustered.csv
+Wrote 437650 rows.
+
+Outputting stats on clusters to: ../../LT_data/GlyEtOH_alpha_R1/GlyEtOH_alpha_R1_cluster_info.csv
+Found 1048628 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 3249052 barcodes
+Made 437650 clusters from 2453901 bcs, totaling 50033749 reads.
+Could not match 795151 bcs, totaling 2373491 reads.
+Done, time elapsed: 292.8696081638336

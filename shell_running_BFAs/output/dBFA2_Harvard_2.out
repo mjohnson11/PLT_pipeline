@@ -1,0 +1,33 @@
+Making main output directory: ../../BFA_data/dBFA2_Harvard_2/
+Making stats output directory: ../../BFA_data/dBFA2_Harvard_2/run_statistics/
+Read 428493296 reads, 46552421 matched library indices.
+making output directory: ../../BFA_data/dBFA2_Harvard_2/run_statistics/dBFA2_Harvard_2_html_report
+Time: 13663.611416101456
+Correcting Env BCs...
+Made 3723 deletion neighborhoods from 81237 barcodes.
+Correcting Div BCs...
+Made 22468 deletion neighborhoods from 475976 barcodes.
+Made 9836 total clusters. 677 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_bc_counts.csv
+Read 1084207 rows.
+
+Reading cluster file: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_clusters.csv
+
+Outputting unclustered barcodes to: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_unclustered.csv
+Wrote 28763 rows, comprising 40384 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_centroids_only.csv
+Wrote 6584 rows.
+
+Outputting clustered lineages to: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_bc_counts_clustered.csv
+Wrote 6584 rows.
+
+Outputting stats on clusters to: ../../BFA_data/dBFA2_Harvard_2/dBFA2_Harvard_2_cluster_info.csv
+Found 3147 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 1084207 barcodes
+Made 6584 clusters from 1055444 bcs, totaling 32790693 reads.
+Could not match 28763 bcs, totaling 40384 reads.
+Done, time elapsed: 96.08236622810364

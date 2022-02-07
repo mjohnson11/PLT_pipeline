@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/pH7_3_2N_R1/
+Making stats output directory: ../../LT_data/pH7_3_2N_R1/run_statistics/
+Read 670667371 reads, 42566656 matched library indices.
+making output directory: ../../LT_data/pH7_3_2N_R1/run_statistics/pH7_3_2N_R1_html_report
+Time: 21989.508570194244
+Correcting Env BCs...
+Made 1465 deletion neighborhoods from 27267 barcodes.
+Correcting Div BCs...
+Made 433561 deletion neighborhoods from 982934 barcodes.
+Made 628573 total clusters. 18743 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_bc_counts.csv
+Read 1982749 rows.
+
+Reading cluster file: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_unclustered.csv
+Wrote 820794 rows, comprising 1953765 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_centroids_only.csv
+Wrote 269083 rows.
+
+Outputting clustered lineages to: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_bc_counts_clustered.csv
+Wrote 269083 rows.
+
+Outputting stats on clusters to: ../../LT_data/pH7_3_2N_R1/pH7_3_2N_R1_cluster_info.csv
+Found 652796 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 1982749 barcodes
+Made 269083 clusters from 1161955 bcs, totaling 35420071 reads.
+Could not match 820794 bcs, totaling 1953765 reads.
+Done, time elapsed: 187.21066856384277

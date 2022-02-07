@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/YPD_2N_R2/
+Making stats output directory: ../../LT_data/YPD_2N_R2/run_statistics/
+Read 670667371 reads, 64672865 matched library indices.
+making output directory: ../../LT_data/YPD_2N_R2/run_statistics/YPD_2N_R2_html_report
+Time: 22078.103447198868
+Correcting Env BCs...
+Made 1411 deletion neighborhoods from 28571 barcodes.
+Correcting Div BCs...
+Made 505251 deletion neighborhoods from 2161822 barcodes.
+Made 864276 total clusters. 16159 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/YPD_2N_R2/YPD_2N_R2_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/YPD_2N_R2/YPD_2N_R2_bc_counts.csv
+Read 4236327 rows.
+
+Reading cluster file: ../../LT_data/YPD_2N_R2/YPD_2N_R2_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/YPD_2N_R2/YPD_2N_R2_unclustered.csv
+Wrote 560266 rows, comprising 1465517 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/YPD_2N_R2/YPD_2N_R2_centroids_only.csv
+Wrote 589658 rows.
+
+Outputting clustered lineages to: ../../LT_data/YPD_2N_R2/YPD_2N_R2_bc_counts_clustered.csv
+Wrote 589658 rows.
+
+Outputting stats on clusters to: ../../LT_data/YPD_2N_R2/YPD_2N_R2_cluster_info.csv
+Found 1653458 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 4236327 barcodes
+Made 589658 clusters from 3676061 bcs, totaling 41732952 reads.
+Could not match 560266 bcs, totaling 1465517 reads.
+Done, time elapsed: 393.27845191955566

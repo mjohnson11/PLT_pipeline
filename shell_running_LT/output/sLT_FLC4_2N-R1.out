@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/FLC4_2N_R1/
+Making stats output directory: ../../LT_data/FLC4_2N_R1/run_statistics/
+Read 575198624 reads, 30024658 matched library indices.
+making output directory: ../../LT_data/FLC4_2N_R1/run_statistics/FLC4_2N_R1_html_report
+Time: 29544.685970783234
+Correcting Env BCs...
+Made 994 deletion neighborhoods from 18301 barcodes.
+Correcting Div BCs...
+Made 425691 deletion neighborhoods from 601407 barcodes.
+Made 532174 total clusters. 17578 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_bc_counts.csv
+Read 1385134 rows.
+
+Reading cluster file: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_unclustered.csv
+Wrote 1035462 rows, comprising 2956298 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_centroids_only.csv
+Wrote 122456 rows.
+
+Outputting clustered lineages to: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_bc_counts_clustered.csv
+Wrote 122456 rows.
+
+Outputting stats on clusters to: ../../LT_data/FLC4_2N_R1/FLC4_2N_R1_cluster_info.csv
+Found 157188 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 1385134 barcodes
+Made 122456 clusters from 349672 bcs, totaling 9385274 reads.
+Could not match 1035462 bcs, totaling 2956298 reads.
+Done, time elapsed: 159.89194679260254

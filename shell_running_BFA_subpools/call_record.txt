@@ -1,0 +1,13 @@
+source activate MILO_ENV
+
+python ../PLT_parse_new_primers.py ../../BFA_Subpool_data/demult_maps/hBFA1_subpool_demult.csv ../../BFA_Subpool_data/ /n/regal/desai_lab/mjohnson/PLT_Subpools/ hBFA1_subpools
+
+python ../PLT_parse_new_primers.py ../../BFA_Subpool_data/demult_maps/hBFA2_subpool_demult.csv ../../BFA_Subpool_data/ /n/regal/desai_lab/mjohnson/PLT_Subpools/ hBFA2_subpools
+
+python ../PLT_parse_new_primers.py ../../BFA_Subpool_data/demult_maps/dBFA2_subpool_demult.csv ../../BFA_Subpool_data/ /n/regal/desai_lab/mjohnson/PLT_Subpools/ dBFA2_subpools
+
+python ../PLT_cluster.py ../../BFA_Subpool_data/ hBFA1_subpools
+
+python ../PLT_cluster.py ../../BFA_Subpool_data/ hBFA2_subpools
+
+python ../PLT_cluster.py ../../BFA_Subpool_data/ dBFA2_subpools

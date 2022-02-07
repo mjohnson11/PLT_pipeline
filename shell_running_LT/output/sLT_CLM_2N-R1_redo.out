@@ -1,0 +1,33 @@
+Making main output directory: ../../LT_data/CLM_2N_R1_redo/
+Making stats output directory: ../../LT_data/CLM_2N_R1_redo/run_statistics/
+Read 405250066 reads, 6011661 matched library indices.
+making output directory: ../../LT_data/CLM_2N_R1_redo/run_statistics/CLM_2N_R1_redo_html_report
+Time: 9674.081865787506
+Correcting Env BCs...
+Made 714 deletion neighborhoods from 8345 barcodes.
+Correcting Div BCs...
+Made 233706 deletion neighborhoods from 271561 barcodes.
+Made 20309 total clusters. 609 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_bc_counts.csv
+Read 395567 rows.
+
+Reading cluster file: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_clusters.csv
+
+Outputting unclustered barcodes to: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_unclustered.csv
+Wrote 346569 rows, comprising 644889 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_centroids_only.csv
+Wrote 6686 rows.
+
+Outputting clustered lineages to: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_bc_counts_clustered.csv
+Wrote 6686 rows.
+
+Outputting stats on clusters to: ../../LT_data/CLM_2N_R1_redo/CLM_2N_R1_redo_cluster_info.csv
+Found 8477 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 395567 barcodes
+Made 6686 clusters from 48998 bcs, totaling 4381862 reads.
+Could not match 346569 bcs, totaling 644889 reads.
+Done, time elapsed: 31.458166360855103

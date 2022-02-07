@@ -1,0 +1,33 @@
+Making main output directory: ../../BFA_data/dBFA2_Stanford_1/
+Making stats output directory: ../../BFA_data/dBFA2_Stanford_1/run_statistics/
+Read 229397983 reads, 148483675 matched library indices.
+making output directory: ../../BFA_data/dBFA2_Stanford_1/run_statistics/dBFA2_Stanford_1_html_report
+Time: 22938.185242652893
+Correcting Env BCs...
+Made 9877 deletion neighborhoods from 164421 barcodes.
+Correcting Div BCs...
+Made 49000 deletion neighborhoods from 565177 barcodes.
+Made 187317 total clusters. 12761 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_bc_counts.csv
+Read 1780334 rows.
+
+Reading cluster file: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_clusters.csv
+
+Outputting unclustered barcodes to: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_unclustered.csv
+Wrote 289259 rows, comprising 494640 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_centroids_only.csv
+Wrote 11654 rows.
+
+Outputting clustered lineages to: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_bc_counts_clustered.csv
+Wrote 11654 rows.
+
+Outputting stats on clusters to: ../../BFA_data/dBFA2_Stanford_1/dBFA2_Stanford_1_cluster_info.csv
+Found 12866 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 1780334 barcodes
+Made 11654 clusters from 1491075 bcs, totaling 107388476 reads.
+Could not match 289259 bcs, totaling 494640 reads.
+Done, time elapsed: 220.0892128944397

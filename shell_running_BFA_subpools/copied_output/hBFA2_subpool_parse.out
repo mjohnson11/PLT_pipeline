@@ -1,0 +1,31 @@
+Making main output directory: ../../BFA_Subpool_data/hBFA2_subpools/
+Making stats output directory: ../../BFA_Subpool_data/hBFA2_subpools/run_statistics/
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-YPD_alpha-R1-Subpool_S20_R1_001.fastq.gz
+Read 203412 reads, 199982 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-SC_alpha-R1-Subpool_S21_R1_001.fastq.gz
+Read 179559 reads, 176906 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-pH7_3_alpha-R1-Subpool_S22_R1_001.fastq.gz
+Read 206435 reads, 203750 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-pH3_8_alpha-R1-Subpool_S23_R1_001.fastq.gz
+Read 134323 reads, 131897 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-37C_alpha-R1-Subpool_S24_R1_001.fastq.gz
+Read 218892 reads, 212602 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-GlyEtOH_alpha-R1-Subpool_S25_R1_001.fastq.gz
+Read 313671 reads, 307736 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-CLM_alpha-R1-Subpool_S26_R1_001.fastq.gz
+Read 587972 reads, 579541 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-FLC4_2N-R1-Subpool_S27_R1_001.fastq.gz
+Read 472524 reads, 464974 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-02M_NaCl_alpha-R1-Subpool_S28_R1_001.fastq.gz
+Read 230256 reads, 227306 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-08M_NaCl_alpha-R2-Subpool_S29_R1_001.fastq.gz
+Read 612037 reads, 602608 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-FLC4_alpha-R1-Subpool_S30_R1_001.fastq.gz
+Read 598085 reads, 586192 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-21C_alpha-R1-Subpool_S31_R1_001.fastq.gz
+Read 515750 reads, 506616 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-GlyEtOH_2N-R1-Subpool_S35_R1_001.fastq.gz
+Read 407885 reads, 399892 matched library inline index.
+Reading /n/regal/desai_lab/mjohnson/PLT_Subpools/hBFA2-CLM_2N-R1-Subpool_S40_R1_001.fastq.gz
+Read 395074 reads, 386803 matched library inline index.
+Time: 223.05265188217163

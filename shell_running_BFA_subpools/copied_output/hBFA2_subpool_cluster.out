@@ -1,0 +1,28 @@
+Correcting Env BCs...
+Made 844 deletion neighborhoods from 18701 barcodes.
+Correcting Div BCs...
+Made 5224 deletion neighborhoods from 58563 barcodes.
+Made 12266 total clusters. 911 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_bc_counts.csv
+Read 167982 rows.
+
+Reading cluster file: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_clusters.csv
+
+Outputting unclustered barcodes to: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_unclustered.csv
+Wrote 13634 rows, comprising 22822 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_centroids_only.csv
+Wrote 3938 rows.
+
+Outputting clustered lineages to: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_bc_counts_clustered.csv
+Wrote 3938 rows.
+
+Outputting stats on clusters to: ../../BFA_Subpool_data/hBFA2_subpools/hBFA2_subpools_cluster_info.csv
+Found 5360 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 167982 barcodes
+Made 3938 clusters from 154348 bcs, totaling 4054791 reads.
+Could not match 13634 bcs, totaling 22822 reads.
+Done, time elapsed: 5.107042074203491

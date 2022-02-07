@@ -1,0 +1,31 @@
+Read 264071090 reads, 128967755 matched library indices.
+Time: 19134.89637374878
+Correcting Env BCs...
+Made 4690 deletion neighborhoods from 136079 barcodes.
+Correcting Div BCs...
+Made 416331 deletion neighborhoods from 1134152 barcodes.
+Made 460728 total clusters. 39775 failed because the top hit did not match the true bcs.
+Writing error correction cluster output to: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_clusters.csv
+Parsing and outputting clusters now
+
+Reading barcode count data file: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_bc_counts.csv
+Read 2731459 rows.
+
+Reading cluster file: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_clusters.csv
+
+Outputting unclustered barcodes to: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_unclustered.csv
+Wrote 1109822 rows, comprising 2455890 reads.
+
+Outputting centroid barcode rows (no errors) to: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_centroids_only.csv
+Wrote 124880 rows.
+
+Outputting clustered lineages to: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_bc_counts_clustered.csv
+Wrote 124880 rows.
+
+Outputting stats on clusters to: ../../BFA_data/hBFA2_Stanford/hBFA2_Stanford_cluster_info.csv
+Found 359941 clustering events in which the clustered barcode had more than 1.0 % of the total reads of the centroid barcode.
+Looked at 2731459 barcodes
+Made 124880 clusters from 1621637 bcs, totaling 89079589 reads.
+Could not match 1109822 bcs, totaling 2455890 reads.
+Done, time elapsed: 505.76272225379944
+Submitted batch job 38033748

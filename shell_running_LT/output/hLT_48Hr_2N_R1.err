@@ -1,0 +1,4 @@
+discarding /n/sw/fasrcsw/apps/Core/Anaconda3/2.1.0-fasrc01/x/bin from PATH
+prepending /n/home13/mjohnson/envs/MILO_ENV/bin to PATH
+/n/home13/mjohnson/envs/MILO_ENV/lib/python3.4/site-packages/numpy/core/_methods.py:59: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
