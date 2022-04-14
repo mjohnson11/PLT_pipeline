@@ -1,0 +1,29 @@
+Making directory: /n/holyscratch01/desai_lab/mjohnson/PLT/demult_reads/LT/Stanford_redos_LT/
+Making directory: /n/holyscratch01/desai_lab/mjohnson/PLT/demult_reads/LT/Stanford_redos_LT/read_files/
+405250066 total reads
+CLM_2N-R1-Time24 640922
+CLM_2N-R1-Time48 2234840
+CLM_2N-R1-Time56 3135899
+CLM_alpha-R1-Time16 20476136
+CLM_alpha-R1-Time24 16950957
+CLM_alpha-R1-Time32 6927808
+CLM_alpha-R1-Time40 3001512
+CLM_alpha-R1-Time48 2111511
+CLM_alpha-R1-Time56 2384263
+CLM_alpha-R1-Time64 1503053
+FLC4_2N-R1-Time0 51495583
+FLC4_2N-R1-Time16 11318372
+FLC4_2N-R1-Time24 11327378
+FLC4_2N-R1-Time32 9936381
+FLC4_2N-R1-Time40 12086538
+FLC4_2N-R1-Time48 27837679
+FLC4_2N-R1-Time56 14888954
+FLC4_alpha-R1-Time16 6874088
+FLC4_alpha-R1-Time24 9718230
+FLC4_alpha-R1-Time32 7155003
+FLC4_alpha-R1-Time40 3653668
+FLC4_alpha-R1-Time48 4854371
+FLC4_alpha-R1-Time56 6427629
+FLC4_alpha-R1-Time64 582126
+not demultiplexed 167727165
+Time: 43212.619774103165
